@@ -20,23 +20,11 @@ Here is a working live demo : https://iharsh234.github.io/WebApp/
 
 Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
 ## Mobile support
 
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+
 
 ## [Usage](https://iharsh234.github.io/WebApp/)
 
@@ -69,8 +57,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## To-do
 
 - Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
                                                                           |
 
 ## [License](https://github.com/omwakwe/gitdemo/blob/master/LICENSE.md)
