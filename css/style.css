@@ -1,3 +1,10 @@
 h1{
     color: blue;
 }
+
+p{
+    color: white;
+    background-color: darkgoldenrod;
+    font-size: 50px;
+    padding: 1em;
+}
